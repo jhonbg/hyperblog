@@ -6,4 +6,6 @@ esto es una prueba de coneccion remota
 
 Master 1
 
+Master 2
+
 hoy hablaremos de su historia.
